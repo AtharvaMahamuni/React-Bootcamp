@@ -1,0 +1,20 @@
+.buttonBody {
+    padding: 5px;
+    background-color: gray;
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 5px;
+    margin-right: 7px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.buttonBody:hover {
+    background-color: darkgray;
+}
+
+.buttonBody > h4 {
+    color: white;
+}
+
